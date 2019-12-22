@@ -1,0 +1,12 @@
+.new-year-card{
+    background-image:url(http://bestanimations.com/Holidays/Christmas/merrychristmas/redglitter-merry-christmas-wishes-card.gif);
+    font-size:15px;
+    font-weight:100%;
+    color:black;
+    font-family: 'Oswald', sans-serif;
+    font-size:32px;
+    background-repeat:no-repeat;
+    background-size: cover;
+    padding:-20px;
+    margin-right:-9px;
+}
